@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+Github+Niammi+EKSDI)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Terimakasih+Sudah+Mampir)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=VAKUM+SEE+YOU+NEXT+TIME)](https://git.io/typing-svg)
 <!---
 WhoNiammi/WhoNiammi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
